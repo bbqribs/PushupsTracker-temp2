@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.PushupsTracker" parent="Theme.Material3.DayNight">
+        <!-- Optional: App icon colors, etc. -->
+    </style>
+</resources>
